@@ -1,4 +1,5 @@
 module.exports = {
+  content: ["layouts/**/*.md", "layouts/**/*.html"],
   theme: {
     extend: {
       flex: {
